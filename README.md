@@ -1,5 +1,5 @@
 # CALCULADORA
-Proyecto personal Nº1
+Calculadora simil MacOS + Función raiz cuadrada y función porcentaje.
 
 ## Recursos
 - 👨‍💻 Python
