@@ -1,7 +1,7 @@
 # CALCULADORA
 Calculadora simil MacOS + Función raiz cuadrada y función porcentaje.
 
-## Recursos
+## Tecnologías utilizadas
 - 👨‍💻 Python
 - ⚙️ Tkinter
 
